@@ -1,0 +1,6 @@
+{
+  "name": "Codriod",
+  "description": "An Android mobile IDE and workspace with code editor, file explorer, Git manager, web preview, and terminal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
